@@ -1,0 +1,1 @@
+{"buildCommand":"npm install && npx --yes vite build","outputDirectory":"dist","framework":null} 
